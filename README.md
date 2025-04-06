@@ -37,7 +37,7 @@ We're actively working on expanding the app with the following powerful features
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Frontend**: React / HTML / CSS / Tailwind (optional)
 - **Backend**: Node.js, Express
@@ -46,13 +46,16 @@ We're actively working on expanding the app with the following powerful features
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
+![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
+![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
+![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
 
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**
 
