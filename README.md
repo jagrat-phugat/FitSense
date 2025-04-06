@@ -49,8 +49,8 @@ We're actively working on expanding the app with the following powerful features
 ## Screenshots
 
 ![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
-![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
-![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123311.png)
+![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123550.png)
+![Screenshot](https://github.com/jagrat-phugat/FitSense/blob/main/assets/Screenshot%202025-04-06%20123602.png)
 
 
 ---
